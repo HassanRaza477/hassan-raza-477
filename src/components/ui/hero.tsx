@@ -1,4 +1,3 @@
-import Image from "next/image";
 export default function Hero() {
   return (
     <div className="bg-black text-white w-full h-screen flex flex-col md:flex-row justify-center items-center gap-12 p-4">
@@ -15,7 +14,7 @@ export default function Hero() {
         </h1>
         <p className="mb-5 mt-4 text-justify">
           Hey I am Hassan Raza and I am a Web Developer and Digital Marketer
-          with a knack for crafting clean innovative and user-centered digital
+          with a knack for crafting clean innovative and user centered digital
           experiences. With a keen eye for detail and a love for creativity I
           bring ideas to life, blending design and functionality to make projects
           both beautiful and impactful.
